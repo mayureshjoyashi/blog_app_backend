@@ -1,4 +1,5 @@
-
+Commands to run the application:
+npm run dev
 
 ### Project Description: Blog Application Backend with Node.js, Express, and MongoDB
 
